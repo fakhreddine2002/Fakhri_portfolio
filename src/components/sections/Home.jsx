@@ -19,7 +19,7 @@ export const Home = () => {
             </div>
             </RevealOnScroll>
             <img
-                src="/img/fakhri.jpg"
+                src="./fakhri.jpg"
                 alt="fakhri"
                 className="flexbox right-10  w-60 h-60 object-cover rounded-full animate-floatImage shadow-lg"
             />

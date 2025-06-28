@@ -11,7 +11,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
             <div className="flex justify-between items-center h-16">
                 <a href="#home" className="flex items-center">
                     <img 
-                    src="/img/fakhri.jpg" 
+                    src="./fakhri.jpg" 
                     alt="logo" 
                     className="w-10 h-10 rounded-full object-cover border-2 border-white hover:border-blue-500 transition-colors duration-500"
                     />
@@ -43,7 +43,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
                     </a>
 
                     <a
-                        href="/pdf/_cv_.pdf"
+                        href="./_cv_.pdf"
                         download
                         className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition-colors duration-300"
                     >
