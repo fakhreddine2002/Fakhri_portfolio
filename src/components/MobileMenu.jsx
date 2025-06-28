@@ -23,8 +23,8 @@ export const MobileMenu = ({ menuOpen, setMenuOpen }) => {
                     <a href="#contact" className={`text-2xl font-semibold text-white my-4 transform transition-transform duration-300 ${menuOpen ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"} `} onClick={() => setMenuOpen(false)}>
                         Contact
                     </a>
-                     <a
-                        href="https://drive.google.com/file/d/1cQ85puqyp9adMsqNshay-W_O1iXbPxK1/view?usp=sharing"
+                    <a
+                        href="https://drive.google.com/uc?export=download&id=1cQ85puqyp9adMsqNshay-W_O1iXbPxK1"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition-colors duration-300"
