@@ -24,11 +24,11 @@ export const MobileMenu = ({ menuOpen, setMenuOpen }) => {
                         Contact
                     </a>
                     <a
-                        href="_cv_.pdf"
-                        download
-                        className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition-colors duration-300"
+                    href="/Fakhri_portfolio/_cv_.pdf"
+                    download
+                    className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition-colors duration-300"
                     >
-                        Download CV
+                    Download CV
                     </a>
         </div>
     );
