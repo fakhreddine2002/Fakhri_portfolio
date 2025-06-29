@@ -23,7 +23,7 @@ export const MobileMenu = ({ menuOpen, setMenuOpen }) => {
                     <a href="#contact" className={`text-2xl font-semibold text-white my-4 transform transition-transform duration-300 ${menuOpen ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"} `} onClick={() => setMenuOpen(false)}>
                         Contact
                     </a>
-                   <a
+                    <a
                         href="/Fakhri_portfolio/_cv_.pdf"
                         download="Fakhri_CV.pdf"
                         target="_blank"

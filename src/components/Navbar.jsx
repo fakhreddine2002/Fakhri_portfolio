@@ -42,7 +42,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
                         Contact{" "}
                     </a>
 
-                   <a
+                    <a
                         href="/Fakhri_portfolio/_cv_.pdf"
                         download="Fakhri_CV.pdf"
                         target="_blank"
