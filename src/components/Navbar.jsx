@@ -43,11 +43,11 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
                     </a>
 
                     <a
-                    href={`${import.meta.env.BASE_URL}_cv_.pdf`}
-                    download
+                    href="https://drive.google.com/file/d/1cQ85puqyp9adMsqNshay-W_O1iXbPxK1/view?usp=sharing"
+                    
                     className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition-colors duration-300"
                     >
-                    Download cv
+                    Download CV
                     </a>
                 </div>
 
