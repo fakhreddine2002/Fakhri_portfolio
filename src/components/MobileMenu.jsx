@@ -24,7 +24,7 @@ export const MobileMenu = ({ menuOpen, setMenuOpen }) => {
                         Contact
                     </a>
                    <a
-                        href="https://fakhreddine2002.github.io/Fakhri_portfolio/_cv_.pdf"
+                        href="/Fakhri_portfolio/_cv_.pdf"
                         download="Fakhri_CV.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
