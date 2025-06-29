@@ -42,13 +42,13 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
                         Contact{" "}
                     </a>
 
-                   <a 
-                        href="/Fakhri_portfolio/_cv_.pdf"  // Include your repo name
+                   <a
+                        href="https://fakhreddine2002.github.io/Fakhri_portfolio/_cv_.pdf"
+                        download="Fakhri_CV.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition-colors duration-300"
                     >
-                        <span className="mr-2">📥</span>
                         Download CV
                     </a>
                 </div>
